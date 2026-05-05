@@ -9,7 +9,7 @@
 // ================= ADAFRUIT IO AYARLARI =================
 
 #define IO_USERNAME  "taharial"
-#define IO_KEY       "aio_Ozph62iFRxaSjlCwzUVrd5DgG3OL"
+#define IO_KEY       "a"
 
 #define WIFI_SSID    "taha enes"
 #define WIFI_PASS    "taha1234"
